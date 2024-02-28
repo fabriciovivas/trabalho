@@ -1,1 +1,11 @@
+1 – Encontre referências e comente: 
+a. A relação entre a LGPD e os Data Centers no Brasil 
+- O munedo vive de troca de dados e de informações em fralções de segundo, por isso, a exposição de dados online carece de cuidados extremos amparados pela adaptação às novas regras de privacidade de dados. Os data centers, um celeiro de dados, precisam estar de acordo com estes parâmetros de segurança, para que nenhum provedor sofra danos ou perdas físicas capazes de atingir dados armazenados em nuvem de seus clientes.
 
+
+b. Formatos de arquivos de dados proprietários e abertos 
+b.1 forneça exemplos de formatos
+- docx, psd, dwg são formatos proprietários.
+
+b.2 discuta as implicações relacionadas a dados públicos.
+- A disponibilidade de dados públicos traz benefícios, como transparência e inovação, mas levanta preocupações relacionadas à prvacidade, garantindo ética na coleta e uso de dados. A responsabilidade e prestação de contas governamentais são fortalecidas, mas desafios como segurança da informação e gestão de viés devem ser abordados para otimizar os benefícios dos dados públicos.

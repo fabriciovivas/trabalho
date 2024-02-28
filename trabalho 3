@@ -14,8 +14,31 @@ C++:
 É uma linguagem de programação de alto desempenho, oferecendo controle detalhado sobre hardware. É de nível médio, com uma síntese complexa, e não possui gerenciamento automático de memória.
 
 
-a. Tente fazer um código mínimo em cada uma delas;
+a. Tente fazer um código mínimo em cada uma delas; b. Tente executar o seu código;
+
+C++:
+#include <iostream>
+
+int main() {
+    std::cout << "viva la vida" << std::endl;
+    return 0;
+}
+--------------------------------------
+Java:
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+// The main method must be in a class named "Main".
+class Main {
+    public static void main(String[] args) {
+        System.out.println("sou o fabricio");
+    }
+}
+--------------------------------------
+Python:
+print('botafogo')
 
 
-b. Tente executar o seu código;
+
 

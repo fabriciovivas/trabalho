@@ -23,6 +23,8 @@ int main() {
     std::cout << "viva la vida" << std::endl;
     return 0;
 }
+
+https://github.com/fabriciovivas/trabalho/blob/99c994e3e255636ed30bb162a3d7c263505b1887/Print%20C%2B%2B.png
 --------------------------------------
 Java:
 import java.util.*;
@@ -35,10 +37,13 @@ class Main {
         System.out.println("sou o fabricio");
     }
 }
+
+https://github.com/fabriciovivas/trabalho/blob/99c994e3e255636ed30bb162a3d7c263505b1887/Print%20Java.png
 --------------------------------------
 Python:
 print('botafogo')
 
+https://github.com/fabriciovivas/trabalho/blob/99c994e3e255636ed30bb162a3d7c263505b1887/Print%20Python.png
 
 
 

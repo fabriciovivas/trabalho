@@ -10,7 +10,7 @@ Servidores são computadores ou sistemas computacionais que atendem requisiçõe
 1 – Encontre referências e comente: 
 
 a. A relação entre a LGPD e os Data Centers no Brasil 
-
+- O munedo vive de troca de dados e de informações em fralções de segundo, por isso, a exposição de dados online carece de cuidados 
 
 
 b. Formatos de arquivos de dados proprietários e abertos 

@@ -11,7 +11,7 @@ while num <= 5:
     print(num)
     num += 1
 
-
+https://github.com/fabriciovivas/trabalho/blob/12bc72f2c9e7ca12de1f6aba406173eacef4e774/Captura%20de%20tela%202024-03-06%20085340%201.png
 
 
 
@@ -25,5 +25,5 @@ if numero % 2 == 0:
 else:
     print("O número é ímpar")
 
-
+https://github.com/fabriciovivas/trabalho/blob/12bc72f2c9e7ca12de1f6aba406173eacef4e774/Captura%20de%20tela%202024-03-06%20090120%202.png
 

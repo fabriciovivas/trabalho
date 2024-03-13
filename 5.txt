@@ -41,3 +41,4 @@ frase = "Olá, mundo! Esta é uma frase de exemplo."
 print("Frase original:", frase)
 imprimir_vogais(frase)
 
+https://github.com/fabriciovivas/trabalho/blob/7dd561e8cc88420c7bb195da057cf5f08cc651ed/Capturar%202.PNG

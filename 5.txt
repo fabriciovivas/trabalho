@@ -1,0 +1,23 @@
+1 – implemente o algoritmo de ordenação Bubble Sort usando python;
+
+def bubble_sort(arr):
+    n = len(arr)
+    for i in range(n):
+        # Flag para verificar se houve trocas nesta iteração
+        swapped = False
+        for j in range(0, n-i-1):
+            # Troca os elementos se estiverem fora de ordem
+            if arr[j] > arr[j+1]:
+                arr[j], arr[j+1] = arr[j+1], arr[j]
+                swapped = True
+        # Se não houve trocas nesta iteração, o array está ordenado e podemos parar
+        if not swapped:
+            break
+    return arr
+
+# Exemplo de uso:
+arr = [64, 34, 25, 12, 22, 11, 90]
+print("Array original:", arr)
+bubble_sort(arr)
+print("Array ordenado:", arr)
+

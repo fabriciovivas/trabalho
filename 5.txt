@@ -21,3 +21,23 @@ print("Array original:", arr)
 bubble_sort(arr)
 print("Array ordenado:", arr)
 
+https://github.com/fabriciovivas/trabalho/blob/dc94673473cadc08d4e017cb2f55b16076cd0d65/Capturar.PNG
+
+
+
+2 – implemente um algorítimo que imprima apenas as vogais de uma
+determinada palavra ou frase.
+
+def imprimir_vogais(frase):
+    vogais = "aeiouAEIOU"
+    resultado = ""
+    for char in frase:
+        if char in vogais:
+            resultado += char
+    print("Vogais na frase:", resultado)
+
+# Exemplo de uso:
+frase = "Olá, mundo! Esta é uma frase de exemplo."
+print("Frase original:", frase)
+imprimir_vogais(frase)
+
